@@ -1,7 +1,7 @@
 
 %define name	spring-maps-default
 %define version	1.0
-%define rel	1
+%define rel	2
 
 Summary:	Default maps for Spring
 Name:		%{name}
