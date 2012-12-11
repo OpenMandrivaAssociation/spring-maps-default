@@ -35,3 +35,14 @@ rm -rf %{buildroot}
 %defattr(-,root,root)
 %doc debian/changelog debian/copyright
 %{_gamesdatadir}/spring/maps/*.sd7
+
+
+%changelog
+* Tue Sep 08 2009 Thierry Vignaud <tvignaud@mandriva.com> 1.0-2mdv2010.0
++ Revision: 434079
+- rebuild
+
+* Sat Jan 05 2008 Anssi Hannula <anssi@mandriva.org> 1.0-1mdv2008.1
++ Revision: 145684
+- initial Mandriva release
+
