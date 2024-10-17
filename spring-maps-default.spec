@@ -8,7 +8,7 @@ Name:		%{name}
 Version:	%{version}
 Release:	%mkrel %{rel}
 Group:		Games/Strategy
-URL:		http://taspring.clan-sy.com/
+URL:		https://taspring.clan-sy.com/
 # Maps listed in spring/installer/sections/maps.nsh.
 Source:		http://buildbot.no-ip.org/~yokozar/apt/pool/main/s/spring-maps-default/%{name}_%{version}.tar.gz
 License:	GPLv2+
